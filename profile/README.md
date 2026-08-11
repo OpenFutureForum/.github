@@ -7,6 +7,6 @@ We publish open research, datasets, market maps, and practical resources for exe
 ## Open resources
 
 - [Executive Communities Index](https://openfutureforum.github.io/executive-communities-index/) — rankings, structured data, and research on executive communities, CEO peer groups, and C-suite networks.
+- [Executive Community Playbook](https://openfutureforum.github.io/executive-community-playbook/) — practical guidance and reusable templates for designing and operating executive communities.
+- [Executive AI Research](https://github.com/OpenFutureForum/executive-ai-research) — the public research record for Open Future Forum benchmark reports, market maps, datasets, and executive AI research.
 - [Open Future Forum](https://openfutureforum.com/) — events, executive forums, original research, and community programs.
-
-Additional Open Future Forum research repositories will be added after their citation and preservation infrastructure has been safely migrated.
